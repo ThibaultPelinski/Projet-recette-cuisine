@@ -1,0 +1,4 @@
+172.22.0.1 - - [16/Nov/2020:14:59:02 +0000] "GET / HTTP/1.1" 404 21520 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+172.22.0.1 - - [16/Nov/2020:14:59:15 +0000] "GET /_wdt/e0cbd1 HTTP/1.1" 200 3845 "http://symfony.localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+172.25.0.1 - - [16/Nov/2020:15:02:05 +0000] "GET / HTTP/1.1" 404 21524 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+172.25.0.1 - - [16/Nov/2020:15:02:13 +0000] "GET /_wdt/01aa94 HTTP/1.1" 200 3530 "http://symfony.localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
